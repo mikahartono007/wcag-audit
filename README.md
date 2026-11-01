@@ -27,7 +27,9 @@ Uit de 5 uitgevoerde audits zijn de volgende belangrijkste knelpunten naar voren
 - Ontbrekende labels: Het invoerveld voor de nieuwsbrief mist een officiële naam in de code, waardoor hulpsoftware het doel van het veld niet begrijpt.
 - Koppenhiërarchie: De volgorde van de koppen springt onlogisch door elkaar, waardoor blinde gebruikers het overzicht op de pagina verliezen.
 
-Voor de volledige documentatie, codevoorbeelden en gedetailleerde oplossingen per audit kun je de uitgebreide pagina's bekijken in de [Toegankelijkheid Wiki](https://github.com).
+Voor de volledige documentatie, codevoorbeelden en gedetailleerde oplossingen per audit kun je de uitgebreide pagina's bekijken in de 
+
+[[Toegankelijkheid Wiki](https://github.com).](https://github.com/mikahartono007/wcag-audit/wiki/WCAG-audit-van-youngla-website)
 
 
 ## Licentie
