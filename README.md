@@ -29,7 +29,7 @@ Uit de 5 uitgevoerde audits zijn de volgende belangrijkste knelpunten naar voren
 
 Voor de volledige documentatie, codevoorbeelden en gedetailleerde oplossingen per audit kun je de uitgebreide pagina's bekijken in de 
 
-[[Toegankelijkheid Wiki](https://github.com).](https://github.com/mikahartono007/wcag-audit/wiki/WCAG-audit-van-youngla-website)
+(https://github.com/mikahartono007/wcag-audit/wiki/WCAG-audit-van-youngla-website)
 
 
 ## Licentie
